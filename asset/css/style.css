@@ -1,0 +1,95 @@
+html, body {
+  margin:0;
+  padding:0;
+  scroll-behavior: smooth;
+  }
+
+h1 {text-align: center;}
+
+h2 {font-size: 1em;}
+
+.upPage {color: rgb(15, 12, 12);
+  position: center;
+  margin-left: 0;
+  padding:0;
+  font-size: 0.5em;
+
+}
+
+.dowloadCV {
+color: white;
+font-size: 0.5em;
+}
+
+
+.borderP {    
+    border: 3px rgb(250, 250, 250) solid;
+    background-color: rgb(80, 120, 189);
+    }
+
+
+body{
+  background-color: rgb(122, 122, 122);
+
+}
+
+.boody{
+  background-color: #351f65;
+  background-image: linear-gradient(315deg, #1a6eb8 0%, #020991 74%);
+}
+.box30{height: 25em;
+  }
+  
+.borderH {    
+border: 3px rgb(247, 247, 247) solid;
+background-color: rgb(173, 171, 174);
+}
+
+.underline {text-decoration: underline;}
+
+  .rowmodif {
+  
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-top: 75px;
+  }
+
+.taille1{
+  font-size: 2em;
+}
+
+.backgroundW{background-color: cornsilk; 
+  height: 10em;
+}
+
+.backgroundR{background-color: red;
+}
+
+.backgroundB{background-color: blue;
+}
+
+.centrage {text-align: center;
+}
+
+
+.imagePre {text-align: center;
+  width: 250px;
+  height: 250px;
+  padding: 1em ;
+}
+
+.imageOpt {text-align: center;
+  width: 150px;
+  height: 150x;
+  }
+
+  .diplome {text-align: center;
+    width: 150px;
+    height: 150px;
+    
+  }
+
+.colorW {color: rgb(255, 255, 255);}
